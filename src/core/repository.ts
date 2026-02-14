@@ -4,7 +4,7 @@ import { FileChangeOperation, FileChangeInfo } from './types/commonTypes'; // Im
 
 // Dynamically import ES Modules
 const gitPromise = import('isomorphic-git');
-const httpPromise = import('isomorphic-git/http/node/index.js');
+const httpPromise = import('isomorphic-git/http/node/index.cjs');
 
 /**
  * Interface for repository operations
