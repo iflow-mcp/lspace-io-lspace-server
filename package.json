@@ -4,7 +4,7 @@
   "description": "Lspace is an open-source API backend and server that implements the Model Context Protocol (MCP).",
   "main": "dist/index.js",
   "bin": {
-    "iflow-mcp-Lspace-io-lspace-server": "./lspace-mcp-server.js"
+    "iflow-mcp-lspace-io-lspace-server": "./lspace-mcp-server.js"
   },
   "scripts": {
     "build": "tsc",
