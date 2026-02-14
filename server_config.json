@@ -1,0 +1,1 @@
+{"serverConfig": "{\"mcpServers\":{\"lspace-server\":{\"command\":\"npx\",\"args\":[\"-y\",\"@iflow-mcp/lspace-server\"],\"values\":{}}}}"}
